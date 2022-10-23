@@ -1,1 +1,1 @@
-# Sale-prediction--Logistic-Regression
+# Machine Learning Projects
